@@ -15,7 +15,7 @@ device.name2=ASUS_X00T
 device.name3=ASUS_X00TDA
 device.name4=X00TD
 device.name5=X00TA
-supported.versions=
+supported.versions=9 - 10
 supported.patchlevels=
 '; } # end properties
 
